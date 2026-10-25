@@ -16,4 +16,11 @@ the time wasn't enough, and secondly with technical like I mentioned before i wa
 with the player movement where with a single collision start movement on it own.
 
 something different could do later probably will be continue working in the player movement well collision and 
-add texture so it took good looking.
+add texture so it took good looking and make something more like complicated ir new beacuse most of the thing
+from this project was used before on my past projects.
+
+https://youtu.be/ZExSz7x69j8?is=ib3wQ76IAYONMvAd
+
+https://youtu.be/_1Oou4459Us?is=B3F_NAa3ag8Tu_hR
+
+
